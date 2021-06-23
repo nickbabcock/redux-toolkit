@@ -18384,9 +18384,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-scripts@patch:react-scripts@npm:4.0.2#.yarn/patches/react-scripts__npm:4.0.2.patch::locator=rtk-monorepo%40workspace%3A.":
+"react-scripts@patch:react-scripts@npm:4.0.2#.yarn/patches/react-scripts__npm_4.0.2.patch::locator=rtk-monorepo%40workspace%3A.":
   version: 4.0.2
-  resolution: "react-scripts@patch:react-scripts@npm%3A4.0.2#.yarn/patches/react-scripts__npm%3A4.0.2.patch::version=4.0.2&hash=bfb7c4&locator=rtk-monorepo%40workspace%3A."
+  resolution: "react-scripts@patch:react-scripts@npm%3A4.0.2#.yarn/patches/react-scripts__npm_4.0.2.patch::version=4.0.2&hash=bfb7c4&locator=rtk-monorepo%40workspace%3A."
   dependencies:
     "@babel/core": 7.12.3
     "@pmmmwh/react-refresh-webpack-plugin": 0.4.3
